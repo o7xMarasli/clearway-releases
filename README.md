@@ -44,7 +44,7 @@ Yönetici izni istemez. Yalnızca Discord Mode'u açarsanız izin ister.
 
 Clearway varsayılan olarak **sürücü kurmaz** ve oyun süreçlerine dokunmaz. Microsoft, Xbox, Minecraft, Steam, Epic, Riot ve benzeri platformların alan adları hiçbir zaman Clearway'den geçmez.
 
-Sürücü yalnızca **Discord Mode** açıkken, Discord sesi için kullanılır (WinDivert). Anti-cheat'li bir oyun ya da Riot Client açıldığında birkaç saniye içinde kendini kapatır, oyun kapanınca geri açılır. Yine de hiçbir aracın bir anti-cheat ile uyumunu kesin olarak garanti etmek mümkün değildir. Çekiniyorsanız oyundan önce Discord Mode'u kapatın.
+Sürücü yalnızca **Discord Mode** açıkken, Discord sesi için kullanılır (WinDivert) ve siz kapatana kadar açık kalır; oyun açılsa da kapanmaz. Bazı anti-cheat'ler (Vanguard, Easy Anti-Cheat, BattlEye gibi) bu tür bir sürücü yüklüyken oyunu açmayabilir ya da sunucudan düşürebilir. Böyle bir durumda oyundan önce Discord Mode'u kapatın.
 
 ## Sınırlar
 
